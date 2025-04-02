@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1743586914.88146 "c:/NTU-Modern-Physics-Experiments/Zeeman_Effect.tex" "Zeeman_Effect.pdf" "Zeeman_Effect" 1743586916.2511 0
+["pdflatex"] 1743587312.02992 "c:/NTU-Modern-Physics-Experiments/Zeeman_Effect.tex" "Zeeman_Effect.pdf" "Zeeman_Effect" 1743587313.31984 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743585751 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743585661 24224573 40cf4944b0a8295bbe0c2fe7941410d8 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -84,11 +84,11 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Zeeman_Effect.aux" 1743586916 1170 237c71ff7c828db54d97b91fae890c6f "pdflatex"
-  "Zeeman_Effect.out" 1743586916 999 e18607d9013f51bc38dff27659adb2d2 "pdflatex"
-  "Zeeman_Effect.tex" 1743586911 2182 2b411df6b78eae0de9f482d65e9d415f ""
-  "Zeeman_Effect.toc" 1743586916 639 270bf7f7268f24389fc8148063510bee "pdflatex"
-  "c:/NTU-Modern-Physics-Experiments/Zeeman_Effect.tex" 1743586911 2182 2b411df6b78eae0de9f482d65e9d415f ""
+  "Zeeman_Effect.aux" 1743587313 1170 237c71ff7c828db54d97b91fae890c6f "pdflatex"
+  "Zeeman_Effect.out" 1743587313 999 e18607d9013f51bc38dff27659adb2d2 "pdflatex"
+  "Zeeman_Effect.tex" 1743587311 2309 1c7b0452e779d526ba31f2bd246d395d ""
+  "Zeeman_Effect.toc" 1743587313 639 270bf7f7268f24389fc8148063510bee "pdflatex"
+  "c:/NTU-Modern-Physics-Experiments/Zeeman_Effect.tex" 1743587311 2309 1c7b0452e779d526ba31f2bd246d395d ""
   (generated)
   "Zeeman_Effect.aux"
   "Zeeman_Effect.log"
