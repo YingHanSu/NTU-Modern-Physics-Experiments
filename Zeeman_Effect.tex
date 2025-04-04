@@ -8,10 +8,14 @@
 \usepackage{hyperref}
 \usepackage{geometry}
 \usepackage{indentfirst}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{references.bib} % Name of your .bib file
 \geometry{margin=1in}
 
+
+
 % Title and Author
-\title{Modern Physics Experiment Report: Zeeman Effect}
+\title{Zeeman Effect}
 \author{Henry Su, Wen Hong Lou\\ NTU Physics Department}
 \date{\today}
 
@@ -45,12 +49,23 @@ where $\vec{\mu}$ is the magnetic moment, $\mu_B$ is the Bohr magneton, and $\bo
 \end{align}
 where $g_j$ is the Landé g-factor.
 \subsection{Selection Rules}
-Provide the equations governing the Zeeman Effect, such as:
-\[
-\Delta E = m_l \mu_B B
-\]
-where \( \Delta E \) is the energy shift, \( m_l \) is the magnetic quantum number, \( \mu_B \) is the Bohr magneton, and \( B \) is the magnetic field strength.
+Dispite knowing physically all the possible energy level existed, naturally not all transitions between state is allowed. We know the selection rule coonstrains the possible transitions between these energy states. There are two types of transitions allowed: 
+\begin{align}
+    \text{$\pi$-line : }&\Delta m_j = \pm 1\\ 
+    \text{$\sigma_{\pm}$-line : }&\Delta m_j = 0 
+\end{align}
+\indent In our experimentm, we detected lights propagating parellel and perpendicular to the magnetic field $\bold{\mathrm{B}}$. Furthermore, the corrsponding two types of transitions to the light propagatind directions can be summurized in Fig.\ref{fig:zeeman_effect_1}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Zeeman_effect_1.png}
+    \caption{Illustration of the allowed transitions for the Zeeman effect, showing $\pi$-lines ($\Delta m_j = 0$) and $\sigma$-lines ($\Delta m_j = \pm 1$) for light propagating perpendicular to the magnetic field. Note that there is no $\pi$-line for light propagating parallel to the magnetic field because the magnetic dipole is oriented along the field. \cite{phyweZeeman}}
+    \label{fig:zeeman_effect_1}
+\end{figure}
 
+\subsection{Normal and Anomalous Zeeman Effect}
+\begin{equation}
+    \mid i \rangle = \mid \ell_i, s_i, j_i, m_{j_i} \rangle \to \mid f \rangle = \mid \ell_f, s_f, j_f, m_{j_f} \rangle.
+\end{equation}
 \section{Experimental Setup and Procedure}
 THIs is me.
 Describe the f used, including the spectrometer, light source, and magnetic field generator. Include a diagram if possible:
@@ -68,6 +83,6 @@ Analyze the results, discuss sources of error, and evaluate the agreement betwee
 Summarize the findings and their implications for understanding the Zeeman Effect.
 
 \section*{References}
-List all references used in the report, formatted appropriately.
+\printbibliography
 
 \end{document}

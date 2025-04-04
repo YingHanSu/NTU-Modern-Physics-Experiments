@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Zeeman_Effect.blg'
+[74] biber-MSWIN64:340> INFO - === 
+[108] Biber.pm:419> INFO - Reading 'Zeeman_Effect.bcf'
+[173] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[180] Biber.pm:4419> INFO - Processing section 0
+[187] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[272] bibtex.pm:1713> INFO - LaTeX decoding ...
+[292] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[316] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[317] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[317] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[317] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[317] bbl.pm:660> INFO - Writing 'Zeeman_Effect.bbl' with encoding 'UTF-8'
+[318] bbl.pm:763> INFO - Output to Zeeman_Effect.bbl

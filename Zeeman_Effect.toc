@@ -2,8 +2,9 @@
 \contentsline {section}{\numberline {2}Theory}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Zeeman Effect}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Selection Rules}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Normal and Anomalous Zeeman Effect}{3}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Experimental Setup and Procedure}{3}{section.3}%
 \contentsline {section}{\numberline {4}Procedure}{3}{section.4}%
 \contentsline {section}{\numberline {5}Results}{3}{section.5}%
-\contentsline {section}{\numberline {6}Discussion}{3}{section.6}%
-\contentsline {section}{\numberline {7}Conclusion}{3}{section.7}%
+\contentsline {section}{\numberline {6}Discussion}{4}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{4}{section.7}%
