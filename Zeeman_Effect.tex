@@ -7,6 +7,7 @@
 \usepackage{float}
 \usepackage{hyperref}
 \usepackage{geometry}
+\usepackage{indentfirst}
 \geometry{margin=1in}
 
 % Title and Author
@@ -26,20 +27,31 @@ This report investigates the Zeeman Effect, a phenomenon where spectral lines ar
 \newpage
 
 \section{Introduction}
-The Zeeman Effect, discovered by Pieter Zeeman, is a crucial phenomenon in modern physics that demonstrates the interaction between magnetic fields and atomic energy levels. This section introduces the theoretical background and significance of the Zeeman Effect.
-
-\section{Theory}
-\subsection{Quantum Explanation}
-test  the quantum mechanical basis of the Zeeman Effect, including the role of magnetic dipole moments and energy level splitting.
-
-\subsection{Mathematical Formulation}
+The Zeeman effect, discovered by Pieter Zeeman in 1896, is the splitting of atomic spectral lines in the presence of a magnetic field. This experiment investigates both the normal and anomalous Zeeman effects, demonstrating how magnetic fields influence atomic energy levels. Using a cadmium lamp and a Fabry-Perot interferometer, we will observe the shifts in wavelength caused by the interaction of electron magnetic moments with an external magnetic field. Additionally, we will calculate the Bohr magneton, a fundamental physical constant that quantifies the magnetic moment of an electron due to its orbital or spin motion. This study enhances our understanding of atomic structure and the fundamental principles of quantum mechanics.\section{Theory}
+\subsection{Zeeman Effect}
+Zeeman effect is a phenomenon that an atomic spectral line is split into several components in the presence of a magnetic field. The splitting occurs due to the interaction between the magnetic moment of the atom and the external magnetic field. The effect can be classified into two types: normal and anomalous Zeeman effects. We'll get into the details of these two types in the latter section. But for now let us focus on the basic theory of the Zeeman effect. In the presence of weak magnetic field $\mathrm{B}$ the perturbed Hamiltonian can be written as follows:
+\begin{equation}
+H' = -\bold{\mu} \cdot \bold{B} = -\mu_B \bold{J} \cdot \bold{B} , ~~~ \mu_B = \frac{e \hbar}{2 m_e} = 9.274 \times 10^{-24} \mathrm{J/T}
+\end{equation}
+where $\vec{\mu}$ is the magnetic moment, $\mu_B$ is the Bohr magneton, and $\bold{J}$ is the total angular momentum of the atom. In particular, $\bold{J} = \bold{L} + 2\bold{S}$ where the factor 2 is the g-factor for the electron spin. In the latter on experiments our goal is to calculate Bohr magneton through energy level spliting. \\
+\indent  Now let's consider the energy of the perturbed Hamiltonian by firt order perturbation theory. The "good state" of the perturtion is the normalized eigenbasis of the unperturbed Hamiltonian($H_0$), and it's charaterized mainly by magnetic quantum number $m_j$ and orbital quantum number $\ell$. With $\bold{B} = \mathrm{B}\hat{z}$, the energy of the perturbed Hamiltonian can be written as: 
+\begin{align}
+    E_{mj} 
+    &= \langle n \ell jm_j \mid H' \mid n\ell jm_j \rangle \\
+    &= \mu_{B}\,B \biggl[
+      1 + \frac{j\,(j+1) + s\,(s+1) - l\,(l+1)}{2\,j\,(j+1)}
+    \biggr] \, m_{j} 
+    = -\,g_j\,\mu_{B}\,B\,m_{j}.
+\end{align}
+where $g_j$ is the Landé g-factor.
+\subsection{Selection Rules}
 Provide the equations governing the Zeeman Effect, such as:
 \[
 \Delta E = m_l \mu_B B
 \]
 where \( \Delta E \) is the energy shift, \( m_l \) is the magnetic quantum number, \( \mu_B \) is the Bohr magneton, and \( B \) is the magnetic field strength.
 
-\section{Experimental Setup}
+\section{Experimental Setup and Procedure}
 THIs is me.
 Describe the f used, including the spectrometer, light source, and magnetic field generator. Include a diagram if possible:
 
