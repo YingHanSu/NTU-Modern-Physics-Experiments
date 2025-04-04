@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{phyweZeeman}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=c4c053f2b027d97b0164a4f1c6513118}{%
+           family={{PHYWE Systeme GmbH \& Co. KG}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4c053f2b027d97b0164a4f1c6513118}
+      \strng{fullhash}{c4c053f2b027d97b0164a4f1c6513118}
+      \strng{bibnamehash}{c4c053f2b027d97b0164a4f1c6513118}
+      \strng{authorbibnamehash}{c4c053f2b027d97b0164a4f1c6513118}
+      \strng{authornamehash}{c4c053f2b027d97b0164a4f1c6513118}
+      \strng{authorfullhash}{c4c053f2b027d97b0164a4f1c6513118}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Normal and Anomalous Zeeman Effect}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -106,8 +106,58 @@ INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT .\Zeeman_Effect.aux
 INPUT .\Zeeman_Effect.aux
 INPUT Zeeman_Effect.aux
@@ -128,6 +178,15 @@ OUTPUT Zeeman_Effect.pdf
 INPUT .\Zeeman_Effect.out
 INPUT .\Zeeman_Effect.out
 OUTPUT Zeeman_Effect.out
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT Zeeman_Effect.bcf
+INPUT Zeeman_Effect.bbl
+INPUT .\Zeeman_Effect.bbl
+INPUT .\Zeeman_Effect.bbl
+INPUT .\Zeeman_Effect.bbl
+INPUT Zeeman_Effect.bbl
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -174,18 +233,95 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT Zeeman_Effect.toc
 INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Zeeman_effect_1.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Normal_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\Anomalous_Zeeman.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_2.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT .\fabry_perot_1.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT .\setup.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT Zeeman_Effect.aux
 INPUT .\Zeeman_Effect.out
 INPUT .\Zeeman_Effect.out
+INPUT Zeeman_Effect.run.xml
+OUTPUT Zeeman_Effect.run.xml
+INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
