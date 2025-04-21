@@ -9,6 +9,17 @@
 \contentsline {subsection}{\numberline {3.2}Procedure}{7}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Transversal Observation}{7}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Calibration Remark}{7}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Results}{7}{section.4}%
-\contentsline {section}{\numberline {5}Discussion}{7}{section.5}%
-\contentsline {section}{\numberline {6}Conclusion}{7}{section.6}%
+\contentsline {section}{\numberline {4}Data Analysis }{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Observation of Zeeman Effect}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Calculation of Bohr Magneton}{9}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Measurement of the Magnetic Field}{9}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Transversal Normal Zeeman Effect}{9}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Transversal Anomalous Zeeman Effect (Vertical)}{13}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Transversal Anomalous Zeeman Effect (Horizontal)}{16}{subsubsection.4.2.4}%
+\contentsline {section}{\numberline {5}問題討論}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}本實驗選擇鎘燈的原因?}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Fabry-Perot的運作原理為何?入射角扮演的意義為何?}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}$\lambda /4$的玻片在實驗中的意義?}{19}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}為何能階躍遷不是任意兩能階都可以，說明selection rule的物理機制並推導之}{19}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}四個凸透鏡組跟CCD的用途為何}{20}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Summary}{20}{section.6}%
